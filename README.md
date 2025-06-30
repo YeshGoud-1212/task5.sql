@@ -16,4 +16,3 @@ To learn how to combine data from multiple tables using different types of joins
 - RIGHT JOIN
 - FULL OUTER JOIN
 
-## Queries are included in `joins.sql` file.
